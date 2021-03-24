@@ -23,7 +23,7 @@ https://www.mongodb.com/
 6) Run the 2 jupyter notebooks for analysis
 
 ## Tableau Visualization
-![alt text](https://github.com/dudehacker/LoL-Ranked-2020-Win-Prediction/blob/master/dashboard.png?raw=true)
+![alt text](https://github.com/dudehacker/LoL-Ranked-2020-Win-Prediction/blob/main/dashboard.png?raw=true)
 
 ## Analysis
 See presentation.pptx
