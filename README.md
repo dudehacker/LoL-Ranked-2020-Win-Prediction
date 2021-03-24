@@ -22,5 +22,9 @@ https://www.mongodb.com/
 5) Run etl,js with `mongo --quiet lol etl.js > history.json` to create dataset used for pre game analysis (prepPreGames function)
 6) Run the 2 jupyter notebooks for analysis
 
+## Tableau Visualization
+![alt text](https://github.com/dudehacker/LoL-Ranked-2020-Win-Prediction/blob/master/dashboard.png?raw=true)
+
 ## Analysis
 See presentation.pptx
+
