@@ -1,5 +1,5 @@
 # LoL-Ranked-2020-Win-Prediction
-Try to predict ranked game outcome at match making time
+Try to predict League of Legends ranked game outcome at match making time
 
 ## Data Source
 https://www.kaggle.com/d4sein/league-of-legends-patch-109
