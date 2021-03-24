@@ -21,3 +21,6 @@ https://www.mongodb.com/
 4) Run etl.js with `mongo --quiet lol etl.js > games.json` to create dataset used for post game analysis (printAllGames function)
 5) Run etl,js with `mongo --quiet lol etl.js > history.json` to create dataset used for pre game analysis (prepPreGames function)
 6) Run the 2 jupyter notebooks for analysis
+
+## Analysis
+See presentation.pptx
